@@ -7,6 +7,7 @@
 ## 适合入门的资料
 
 [伏辰实验室-物联网安全百科][1]
+
 [绿盟 - 智能设备安全分析手册][2]
 
 ## 环境搭建
@@ -20,18 +21,31 @@ http://www.devttys0.com/2011/06/mystery-file-system/
 http://www.devttys0.com/2011/05/reverse-engineering-firmware-linksys-wag120n/
 
 [逆向路由器固件之解包][4]
+
 [基于 VxWorks 的嵌入式设备固件分析方法介绍][5]
+
 [TP-Link wr886nv7-V1.1.0 路由器分析 – 固件初步分析][6]
+
 [TP-Link wr886nv7-V1.1.0 路由器分析 - VxWorks cmd命令行获取及使用方法][7]
+
 [物联网设备的固件分析技术][8]
+
 [VxWorks固件逆向：WRT54Gv8][9]
+
 [工控漏洞挖掘方法之固件逆向分析][10]
+
 [路由固件的逆向解包及破解方法][11]
+
 [深入分析Ewon Flexy物联网路由器（下）][12]
+
 [D-Link DIR-850L路由器分析之获取设备shell][13]
+
 [TP-Link wr886nv6 固件解析][14]
+
 [Reverse Engineering VxWorks Firmware: WRT54Gv8][15]
+
 [IoT固件逆向入门][16]
+
 [安全小课堂第118期【IOT漏洞挖掘之路由器】][17]
 
 
@@ -49,23 +63,35 @@ http://www.devttys0.com/2011/05/reverse-engineering-firmware-linksys-wag120n/
 
 #### 命令执行漏洞
 1. [重现 TP-Link SR20 本地网络远程代码执行漏洞][20]
+2. 
 [由一道工控路由器固件逆向题目看命令执行漏洞][21]
+
 2. [分析Belkin SURF路由器中的多个漏洞][22]（缓冲区溢出、后门）
+
 3. [H4lo - 路由器漏洞分析系列][23]
+
 4. [kczwa1 - 路由器 CVE 复现][24] 
+
 5. [360 IOT 人才培养计划][25]
 https://bbs.ichunqiu.com/thread-32773-1-1.html?from=beef
 6. [腾达 Tenda 路由器后门分析][26]
+
 7. [D-Link 路由器HNAP协议系列漏洞披露（DIR-823G、DIR-878、DNS 重绑定攻击）][27]
+
 8. [Dlink DIR 路由器HNAP登录函数的多个漏洞][28]
+
 9. [dir-890l 命令执行漏洞分析][29]
+
 10. [D-Link 系列路由器漏洞挖掘入门][30]
+
 11. [TP-LINK wr-842n 等多款无线路由器（新界面2015）存在多个致命漏洞][31]
 
 #### 拒绝服务
 
 [TP-LINK wr-886n 拒绝服务][32]
+
 [CVE-2018-0296 Cisco ASA 拒绝服务漏洞分析][33]
+
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=upnp
 
 
@@ -82,8 +108,11 @@ CVE-2019-8312
 ### UPNP 相关漏洞
 
 [P2P 网络核心技术：UPnP 和 SSDP 协议][35]
+
 http://www.360doc.com/content/14/1009/17/13468863_415575489.shtml
+
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=upnp
+
 [D-Link DIR-615 XSS Via the UPnP Protocol][36]
 
 ### SMB
@@ -109,6 +138,7 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=upnp
 ## 其他智能设备
 
 https://www.exploitee.rs/index.php/FireFU_Exploit
+
 [网络设备漏洞分析技术研究（KCON2016议题）][42]
 
 
@@ -142,6 +172,7 @@ https://www.cnblogs.com/hac425/p/9674758.html
 ## 固件逆向工具使用
 
 [固件逆向分析过程中的工具和技巧（上）][49]
+
 [固件逆向分析过程中的工具和技巧（下）][50]
 
 [mips 漏洞利用框架][51]
@@ -161,10 +192,15 @@ https://github.com/leonW7?tab=repositories
 ## fuzz
 
 [基于 unicorn 的单个函数模拟执行和 fuzzer 实现][58]
+
 [基于Unicorn和LibFuzzer的模拟执行fuzzing][59]
+
 [American Fuzzy Lop/AFL使用/][60]
+
 [IoT设备固件分析之网络协议fuzz][61]
+
 [M4x - afl-fuzz技术初探][62]
+
 [初探BooFuzz][63]
 
 
@@ -172,12 +208,15 @@ https://github.com/leonW7?tab=repositories
 ## 国外技术文章
 
 [afl-unicorn: Fuzzing Arbitrary Binary Code][64]
+
 http://www.routerpwn.com/
 
 
 ## 嵌入式基础知识
 uboot
+
 uimage
+
 https://www.jianshu.com/p/01e5dd7c979a
 
 ## 文件系统
@@ -207,13 +246,6 @@ lzmadec -kd fwr2.lzma>fwr22
 [4G无线路由曝致命漏洞，攻击者可执行任意代码][68]
 
 
-  [58orks%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F&f=false
-
-
-  [62%E7%B3%BB%E7%BB%9F&f=false
-
-
-  [64%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F&f=false
 
 
   [1]: https://iot-security.wiki
