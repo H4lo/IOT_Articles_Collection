@@ -38,3 +38,18 @@
 ```
   https://github.com/hugsy/gdb-static
 ```
+
+## IDA 脚本
+
+```
+https://github.com/giantbranch/mipsAudit
+https://github.com/tigerpuma/idatool-devttys0-
+```
+
+## Ghidra
+
+```
+https://www.nsa.gov/resources/everyone/ghidra/
+```
+
+
