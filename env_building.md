@@ -52,4 +52,10 @@ https://github.com/tigerpuma/idatool-devttys0-
 https://www.nsa.gov/resources/everyone/ghidra/
 ```
 
+## qemu_system_arm
+
+```
+https://people.debian.org/~aurel32/qemu/armhf/
+```
+
 
