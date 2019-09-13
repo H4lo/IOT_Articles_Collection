@@ -13,7 +13,8 @@
 ## firmadyne：
 
 ```
-  https://github.com/firmadyne/firmadyne
+  	git clone https://github.com/firmadyne/firmadyne
+	cd firmadyne/ && sudo download.sh
 	sudo -u postgres createuser -P firmadyne    password: firmadyne
 	 
 	sudo -u postgres createdb -O firmadyne firmware
