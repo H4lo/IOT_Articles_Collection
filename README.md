@@ -1,3 +1,6 @@
+
+# !此项目不再更新了，请移步：https://github.com/H4lo/awesome-IoT-security-article
+
 # IOT_Articles_Collection
 
 Some IOT Integration of Technical Articles/整合一些关于 IOT 安全的入门资料，包括整套的入门教程、技术文章、IOT 大牛博客等等。
